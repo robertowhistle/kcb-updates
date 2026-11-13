@@ -1,0 +1,261 @@
+{
+  "version": "1.1.83",
+  "notes": "Gastos por categoria agora fica na aba lateral do perfil",
+  "publishedAt": "2026-11-13T23:23:00.546Z",
+  "bundle": {
+    "file": "bundle-1.1.83.zip",
+    "sha256": "f5e8b15ccb793573f58715513377299b3bd792cbff3a104e744625f0cd381e05",
+    "size": 5605198,
+    "minNativeCode": 4
+  },
+  "apk": {
+    "file": "app-1.1.59.apk",
+    "sha256": "203afa1dbcc9b059262629f010cfe669b587f9abd02139377346b06d92e898e7",
+    "size": 11032350,
+    "versionCode": 4,
+    "versionName": "1.1.59",
+    "notes": "Compras e Pix dos bancos agora são lançados mesmo com o app fechado, com aviso no celular"
+  },
+  "history": [
+    {
+      "version": "1.1.83",
+      "notes": "Gastos por categoria agora fica na aba lateral do perfil",
+      "publishedAt": "2026-11-13T23:23:00.546Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.82",
+      "notes": "Com o “A recuperar” oculto, a barra vazia não aparece mais.",
+      "publishedAt": "2026-11-13T20:53:44.298Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.81",
+      "notes": "O “A recuperar” agora tem um olho: toque para ocultar o valor e a barra (substitui o Modo calmo).",
+      "publishedAt": "2026-11-13T20:52:36.976Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.80",
+      "notes": "Modo calmo: em Perfil > Configurações, esconda o “A recuperar” do Livre para hoje.",
+      "publishedAt": "2026-11-13T20:48:20.037Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.79",
+      "notes": "Cada lançamento agora mostra a hora em que foi gravado, na Início e em Transações.",
+      "publishedAt": "2026-11-13T20:09:32.061Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.78",
+      "notes": "Calendário do mês no Perfil: dias em verde quando você ficou no limite e em vermelho quando passou. Toque num dia para ver os lançamentos.",
+      "publishedAt": "2026-11-13T20:06:40.715Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.77",
+      "notes": "Topo do Perfil mais caprichado: foto com selo de edição e seu nome logo abaixo do título.",
+      "publishedAt": "2026-11-12T00:59:18.939Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.76",
+      "notes": "Perfil mais limpo: sua foto fica no topo e, ao tocar nela, abre a edição do perfil.",
+      "publishedAt": "2026-11-12T00:55:38.743Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.75",
+      "notes": "Perfil reorganizado: Configurações, Atualizações e Aparência agora ficam no rodapé, e as demais opções estão dentro de Configurações.",
+      "publishedAt": "2026-11-12T00:52:11.610Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.74",
+      "notes": "Investimentos agora pede sua digital ou a senha do aparelho toda vez que você abre a aba.",
+      "publishedAt": "2026-11-12T00:29:00.364Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.73",
+      "notes": "Planejamento sem o card Mês em foco",
+      "publishedAt": "2026-11-11T23:06:18.868Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.72",
+      "notes": "Planejamento sem o Plano de quitação",
+      "publishedAt": "2026-11-11T23:03:28.460Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.71",
+      "notes": "Transações: busque uma categoria e veja só os gastos dela com o total do mês, e o número de registros encontrados",
+      "publishedAt": "2026-11-11T22:57:34.788Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.70",
+      "notes": "Transações sem os cards de Entradas e Saídas no topo",
+      "publishedAt": "2026-11-11T22:54:10.892Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.69",
+      "notes": "Valores ocultos continuam ocultos até você mostrar, mesmo depois de sincronizar com a nuvem",
+      "publishedAt": "2026-11-11T22:50:20.624Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.68",
+      "notes": "O olho do saldo também esconde os valores de Gastos por categoria na Início",
+      "publishedAt": "2026-11-11T22:49:14.447Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.67",
+      "notes": "% da renda preservada já desconta as contas planejadas a pagar",
+      "publishedAt": "2026-11-11T22:48:12.561Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.66",
+      "notes": "Saldo do mês: % da renda preservada, guardar não derruba mais a porcentagem",
+      "publishedAt": "2026-11-11T22:42:31.530Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.65",
+      "notes": "Saldo do mês mostra o ritmo das reservas de uso quando o mês tem reservas",
+      "publishedAt": "2026-11-11T22:33:01.301Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.64",
+      "notes": "Verso do cartão Livre para hoje em lista: uma reserva por linha, sem buracos",
+      "publishedAt": "2026-11-11T22:12:27.575Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.63",
+      "notes": "Verso do cartão sem buracos: com número ímpar de reservas, o Lazer ocupa a linha toda",
+      "publishedAt": "2026-11-11T22:04:45.552Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.62",
+      "notes": "Lazer como saldo livre: teto do dia, amanhã, economia e A recuperar quando passar do limite",
+      "publishedAt": "2026-11-11T22:00:22.554Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.61",
+      "notes": "Lazer vai para o verso do cartão Livre para hoje, junto das outras reservas",
+      "publishedAt": "2026-11-11T21:56:29.452Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.60",
+      "notes": "Livre para hoje vira um cartão: toque para ver as reservas de uso no verso",
+      "publishedAt": "2026-11-11T21:52:04.148Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.59",
+      "notes": "Compras e Pix dos bancos agora são lançados mesmo com o app fechado, com aviso no celular",
+      "publishedAt": "2026-11-11T21:28:15.798Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.58",
+      "notes": "Início no computador sem buracos entre os blocos",
+      "publishedAt": "2026-11-11T01:15:31.465Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.57",
+      "notes": "App volta a se chamar Rivo, com ícone novo",
+      "publishedAt": "2026-11-11T01:06:19.612Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.56",
+      "notes": "Sombra leve entre os cartões de documentos para dar profundidade",
+      "publishedAt": "2026-11-11T00:50:09.834Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.55",
+      "notes": "Ingressos voltam a ficar deitados na carteira, como antes",
+      "publishedAt": "2026-11-11T00:49:12.884Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.54",
+      "notes": "Ingressos ficam em pé atrás dos documentos na carteira, com capa vertical",
+      "publishedAt": "2026-11-11T00:47:28.341Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.53",
+      "notes": "Mostra a proporção ideal da imagem de capa do cartão",
+      "publishedAt": "2026-11-11T00:42:40.647Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.52",
+      "notes": "Ingressos com capa personalizada no cartão: escolha uma imagem e ajuste o recorte",
+      "publishedAt": "2026-11-11T00:35:25.889Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.51",
+      "notes": "Documento aberto mais nítido e com efeito de movimento pelo giroscópio",
+      "publishedAt": "2026-11-11T00:16:40.694Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.50",
+      "notes": "Cor da barra do A recuperar muda do vermelho ao verde conforme o progresso",
+      "publishedAt": "2026-11-11T00:12:59.722Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.49",
+      "notes": "Nova barra do A recuperar, com preenchimento em gradiente, marcador e risquinhos até 100%",
+      "publishedAt": "2026-11-11T00:10:41.740Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.48",
+      "notes": "Contagem animada em Transações, olhinho para ocultar Entradas e Saídas e barras da Distribuição animadas",
+      "publishedAt": "2026-11-10T23:44:10.171Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.47",
+      "notes": "Contagem animada no saldo, no Livre para hoje e na Atividade recente",
+      "publishedAt": "2026-11-10T23:30:50.253Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.46",
+      "notes": "Barra do A recuperar enche mais devagar e fica com animação contínua na tela",
+      "publishedAt": "2026-11-10T23:29:20.753Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.45",
+      "notes": "Barra do A recuperar com animação de carregamento ao abrir a tela",
+      "publishedAt": "2026-11-10T23:28:21.493Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.44",
+      "notes": "Barra do A recuperar em bloquinhos e progresso que avança com a hora do dia",
+      "publishedAt": "2026-11-10T23:19:04.915Z",
+      "kind": "web"
+    }
+  ]
+}
