@@ -1,0 +1,261 @@
+{
+  "version": "1.1.122",
+  "notes": "Home: agora dá para ocultar o valor do Livre para hoje tocando no olho do card",
+  "publishedAt": "2026-11-18T21:16:47.426Z",
+  "bundle": {
+    "file": "bundle-1.1.122.zip",
+    "sha256": "093eec8bb50c88a3b1718c081486723272fc8366cc4eb63e3d3f4bda04d0a821",
+    "size": 5647879,
+    "minNativeCode": 7
+  },
+  "apk": {
+    "file": "app-1.1.117.apk",
+    "sha256": "2b0ee0c256fbadad1a85a24fa09b0649945c5d6bc2949e4b2607127109f35853",
+    "size": 12306158,
+    "versionCode": 7,
+    "versionName": "1.1.117",
+    "notes": "Saúde: abas Atividade e Sono — passos por hora, batimentos do dia e fases do sono, no estilo do Samsung Health"
+  },
+  "history": [
+    {
+      "version": "1.1.122",
+      "notes": "Home: agora dá para ocultar o valor do Livre para hoje tocando no olho do card",
+      "publishedAt": "2026-11-18T21:16:47.426Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.121",
+      "notes": "Cartões: a anuidade só conta a partir do mês em que foi configurada e entra dentro da fatura do cartão, sem criar fatura separada",
+      "publishedAt": "2026-11-18T21:14:07.652Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.120",
+      "notes": "Lançamentos: anexe a nota fiscal depois, no Editar lançamento (o total precisa bater com o valor lançado)",
+      "publishedAt": "2026-11-18T10:23:12.900Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.119",
+      "notes": "Saúde e Alimentação agora vão para a nuvem (veja no computador também); menu ⋯ com animação",
+      "publishedAt": "2026-11-18T10:21:23.673Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.118",
+      "notes": "Menu ⋯: janelinha redesenhada, com a nota de saúde do dia",
+      "publishedAt": "2026-11-18T10:18:04.124Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.117",
+      "notes": "Saúde: abas Atividade e Sono — passos por hora, batimentos do dia e fases do sono, no estilo do Samsung Health",
+      "publishedAt": "2026-11-18T01:19:17.444Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.116",
+      "notes": "Saúde: nota geral do dia com sono, passos, tempo ativo, batimentos e treinos do Samsung Health (libere os novos dados no cartão Samsung Health)",
+      "publishedAt": "2026-11-18T01:04:53.116Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.115",
+      "notes": "Alimentação: botão de foto único (câmera ou galeria)",
+      "publishedAt": "2026-11-18T00:52:28.632Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.114",
+      "notes": "Saúde: nova aba Alimentação — fotografe o prato e o Gemini estima calorias e macros (configure sua chave em Configurar IA)",
+      "publishedAt": "2026-11-18T00:49:57.895Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.113",
+      "notes": "Saúde: botões Salvar voltam a mostrar o texto",
+      "publishedAt": "2026-11-18T00:38:33.995Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.112",
+      "notes": "Saúde: conecte o Samsung Health (via Health Connect) e traga peso, gordura, água e metabolismo basal sozinhos",
+      "publishedAt": "2026-11-18T00:32:18.143Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.111",
+      "notes": "Saúde: painel e Composição corporal — lance peso, bioimpedância e medidas com fita, defina uma meta e acompanhe as faixas ideais",
+      "publishedAt": "2026-11-18T00:23:43.579Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.110",
+      "notes": "Barra de baixo: ao encolher, o círculo fica centralizado",
+      "publishedAt": "2026-11-18T00:18:34.546Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.109",
+      "notes": "Novo botão ⋯ ao lado da barra de baixo, com a área Saúde (em construção)",
+      "publishedAt": "2026-11-18T00:02:29.576Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.108",
+      "notes": "Aparência: 9 animações para o fundo da Início, com miniaturas ao vivo",
+      "publishedAt": "2026-11-17T23:50:04.059Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.107",
+      "notes": "Aparência: escolha de fonte em grade compacta",
+      "publishedAt": "2026-11-17T23:46:12.160Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.106",
+      "notes": "Cartões: campo de anuidade no editor; o valor entra em toda fatura junto com as compras",
+      "publishedAt": "2026-11-17T23:39:34.010Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.105",
+      "notes": "Início: o fundo do topo agora sobe junto com o cabeçalho ao rolar a tela",
+      "publishedAt": "2026-11-17T23:33:45.874Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.104",
+      "notes": "Início: fundo em mosaico de pixels; em Aparência dá para trocar o fundo (mosaico, imagem ou liso) e escolher a fonte e o tamanho da letra",
+      "publishedAt": "2026-11-17T23:31:29.739Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.103",
+      "notes": "Cartões: compra feita no dia do fechamento já entra na fatura seguinte",
+      "publishedAt": "2026-11-17T23:02:20.164Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.102",
+      "notes": "Mês: mais espaço entre abas, atalhos de replicar e busca",
+      "publishedAt": "2026-11-17T22:52:24.066Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.101",
+      "notes": "Lançamentos: compras no crédito mostram em qual fatura saem (ex.: fatura dez)",
+      "publishedAt": "2026-11-17T22:51:30.706Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.100",
+      "notes": "Cartões: cada fatura vira um lançamento automático no mês em que vence; as compras no crédito saem do saldo do mês da compra",
+      "publishedAt": "2026-11-17T22:32:58.552Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.99",
+      "notes": "Login sem a marca Rivo no topo",
+      "publishedAt": "2026-11-17T22:22:45.130Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.98",
+      "notes": "Compra parcelada: escolha quais parcelas descontam ou não do saldo",
+      "publishedAt": "2026-11-17T10:34:13.340Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.97",
+      "notes": "Retrospectiva do mês em stories: categoria vilã, hábito, dia mais caro, horas de trabalho e nota",
+      "publishedAt": "2026-11-17T00:12:15.504Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.96",
+      "notes": "Boas-vindas animadas para quem cria conta: nome, renda, cartões, meta e tempo de vida",
+      "publishedAt": "2026-11-17T00:05:43.343Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.95",
+      "notes": "Nova tela de login: visual escuro com topo animado",
+      "publishedAt": "2026-11-16T23:49:59.877Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.94",
+      "notes": "Transações: compras fora do saldo aparecem com etiqueta, sem somar nos totais",
+      "publishedAt": "2026-11-16T23:06:44.199Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.93",
+      "notes": "Compra parcelada: o valor digitado é o total e cada mês mostra só a parcela",
+      "publishedAt": "2026-11-16T23:01:06.605Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.92",
+      "notes": "Início: card Livre para hoje volta ao fundo anterior",
+      "publishedAt": "2026-11-15T19:49:01.987Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.91",
+      "notes": "Início: card Livre para hoje com novo fundo azulado",
+      "publishedAt": "2026-11-15T19:48:28.089Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.90",
+      "notes": "O app não pisca nem reinicia mais ao lançar uma despesa.",
+      "publishedAt": "2026-11-15T14:46:23.013Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.89",
+      "notes": "A economia da semana cobre o que passar do limite do dia, e dá para somá-la ao livre de hoje.",
+      "publishedAt": "2026-11-15T13:53:36.046Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.88",
+      "notes": "Selo “fora do saldo” nos lançamentos que só entram na fatura.",
+      "publishedAt": "2026-11-15T12:38:37.050Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.87",
+      "notes": "Compra no crédito pode entrar só na fatura, sem descontar do saldo livre.",
+      "publishedAt": "2026-11-15T12:34:20.240Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.86",
+      "notes": "Calendário do perfil com barrinha de gasto em cada dia.",
+      "publishedAt": "2026-11-15T12:16:19.261Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.85",
+      "notes": "Calendário do perfil branco, com marcação dos dias sem gastos.",
+      "publishedAt": "2026-11-15T12:12:43.521Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.84",
+      "notes": "Ao apagar um guardado, escolha se o valor volta ao saldo livre ou não.",
+      "publishedAt": "2026-11-15T12:04:30.606Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.83",
+      "notes": "Ao apagar um guardado, escolha se o valor volta ao saldo livre ou não.",
+      "publishedAt": "2026-11-15T12:01:43.913Z",
+      "kind": "web"
+    }
+  ]
+}
