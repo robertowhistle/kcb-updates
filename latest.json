@@ -1,0 +1,261 @@
+{
+  "version": "1.1.223",
+  "notes": "web Corrige a janela de lançamento, que mostrava categoria, grupo e outras opções duas vezes.",
+  "publishedAt": "2026-11-25T23:00:06.563Z",
+  "bundle": {
+    "file": "bundle-1.1.223.zip",
+    "sha256": "dd67354ca8add2cc748f0e1febb9468978e6aa0a3c18a3cbe1b20485c67bf674",
+    "size": 6301670,
+    "minNativeCode": 16
+  },
+  "apk": {
+    "file": "app-1.1.201.apk",
+    "sha256": "868f469f07044171e428e15afdce0b9bb302d37f3e3283f57e7f7d0d4f6e1c20",
+    "size": 12365230,
+    "versionCode": 16,
+    "versionName": "1.1.201",
+    "notes": "Versão completa com a proteção contra cópias e os 13 bancos novos nas notificações."
+  },
+  "history": [
+    {
+      "version": "1.1.223",
+      "notes": "web Corrige a janela de lançamento, que mostrava categoria, grupo e outras opções duas vezes.",
+      "publishedAt": "2026-11-25T23:00:06.563Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.222",
+      "notes": "web Assinaturas: toque numa assinatura para marcar o dia em que renova e receber um lembrete antes.",
+      "publishedAt": "2026-11-25T21:08:41.302Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.221",
+      "notes": "web A ponte até o salário agora cobre só o dia a dia (as contas desses dias saem do próprio salário), com um texto mais claro.",
+      "publishedAt": "2026-11-25T20:54:53.593Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.220",
+      "notes": "web Saúde do mês e IA entendem os dias antes do salário: sem nota ruim e sem alarme de mês negativo.",
+      "publishedAt": "2026-11-25T20:46:10.169Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.219",
+      "notes": "web Livre para hoje agora guarda o dinheiro para os dias antes do salário do mês seguinte. No começo do mês, até o salário cair, mostra o que sobrou do mês passado.",
+      "publishedAt": "2026-11-25T20:40:59.944Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.218",
+      "notes": "web Escolha qual IA usar (OpenAI, Groq ou automático) no Consumo da IA, no Perfil.",
+      "publishedAt": "2026-11-25T20:33:46.929Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.217",
+      "notes": "web Voz ao vivo: barra sem a borda branca.",
+      "publishedAt": "2026-11-25T20:29:00.688Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.216",
+      "notes": "web Voz ao vivo: sua fala não corta mais a IA, menos confusão com vozes ao fundo e botão para desligar o microfone.",
+      "publishedAt": "2026-11-25T20:19:35.935Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.215",
+      "notes": "web Resumo do diário emocional redesenhado: o padrão que mais se repete em destaque e um gráfico de gatilho x consciente.",
+      "publishedAt": "2026-11-25T20:04:00.905Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.214",
+      "notes": "web Voz ao vivo responde mais rápido e cumprimenta ao conectar.",
+      "publishedAt": "2026-11-25T19:56:13.177Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.213",
+      "notes": "web Novo ícone de ondas no botão de voz ao vivo.",
+      "publishedAt": "2026-11-25T19:52:14.700Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.212",
+      "notes": "web Voz ao vivo com a IA: toque no microfone da Início e converse enquanto usa o app. A barra de baixo mostra a conversa e encerra com um toque.",
+      "publishedAt": "2026-11-25T19:49:45.256Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.211",
+      "notes": "web Diário emocional em 3 passos: o que te levou, como você estava e se valeu a pena. O resumo mostra arrependimentos e padrões.",
+      "publishedAt": "2026-11-25T19:40:48.398Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.210",
+      "notes": "web Resumo do diário emocional (quanto foi por impulso, desejo, razão…) e a IA agora conversa sobre o seu diário.",
+      "publishedAt": "2026-11-25T19:37:23.748Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.209",
+      "notes": "web Pular no diário emocional agora vale em todos os aparelhos.",
+      "publishedAt": "2026-11-25T19:24:50.499Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.208",
+      "notes": "web Diário emocional com mais espaço entre os textos.",
+      "publishedAt": "2026-11-25T18:45:37.176Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.207",
+      "notes": "web Corrige o botão do diário emocional, que estava sem leitura.",
+      "publishedAt": "2026-11-25T18:44:29.281Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.206",
+      "notes": "web Lembretes na Início (cancelar assinatura, pagar conta, frase do dia), também pela IA. Diário emocional das compras no Planejamento e dividir despesa com amigos de volta.",
+      "publishedAt": "2026-11-25T18:40:39.149Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.205",
+      "notes": "web A IA do chat agora lança, altera e apaga registros e muda reservas do mês, por texto ou áudio. Você confirma num cartão antes de gravar.",
+      "publishedAt": "2026-11-25T18:09:00.448Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.204",
+      "notes": "web O chat da IA agora continua a última conversa quando você fecha e abre de novo. Conversa nova só pelo botão Nova conversa.",
+      "publishedAt": "2026-11-25T17:59:50.291Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.203",
+      "notes": "web Consumo da IA no Perfil: tokens e custo do mês com barrinha de teto. A IA do chat agora responde só sobre finanças.",
+      "publishedAt": "2026-11-25T17:57:57.223Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.202",
+      "notes": "web A IA agora enxerga a previsão de todos os meses planejados e soma quanto você vai guardar num período (ex.: de janeiro a abril).",
+      "publishedAt": "2026-11-25T17:43:52.013Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.201",
+      "notes": "Versão completa com a proteção contra cópias e os 13 bancos novos nas notificações.",
+      "publishedAt": "2026-11-25T12:27:22.055Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.200",
+      "notes": "Proteção do app contra cópias reativada, agora testada. Nada muda no uso.",
+      "publishedAt": "2026-11-25T12:26:19.115Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.199",
+      "notes": "Corrige a tela branca da versão anterior. Se algo der errado ao abrir, o app agora mostra uma tela com opção de voltar, em vez de ficar em branco.",
+      "publishedAt": "2026-11-25T12:20:54.956Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.198",
+      "notes": "Proteção do app contra cópias: código protegido e verificação de autenticidade. Nada muda no uso.",
+      "publishedAt": "2026-11-25T12:13:42.456Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.197",
+      "notes": "Lançamento automático pelas notificações agora funciona com mais 13 bancos: Inter, C6, Itaú, Bradesco, Next, Santander, Banco do Brasil, Caixa, Neon, NG.Cash, PagBank, Will Bank e Pan",
+      "publishedAt": "2026-11-25T12:04:55.653Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.196",
+      "notes": "Tutoriais no Perfil, nas Configurações e na Aparência",
+      "publishedAt": "2026-11-25T12:01:39.130Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.195",
+      "notes": "Tutoriais também no Planejamento, em Investimentos e na janela de lançamento",
+      "publishedAt": "2026-11-25T11:46:56.699Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.194",
+      "notes": "Boas-vindas mais completas: objetivo, assinaturas, proibições, meta de sobra e como o app funciona",
+      "publishedAt": "2026-11-25T11:41:22.007Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.193",
+      "notes": "Tutorial na Início: depois das boas-vindas, um passo a passo mostra onde fica cada coisa",
+      "publishedAt": "2026-11-25T11:29:24.719Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.192",
+      "notes": "Conta nova vai direto para as boas-vindas, sem mostrar a Início vazia antes",
+      "publishedAt": "2026-11-25T11:24:50.644Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.191",
+      "notes": "Boas-vindas novas: sua Início se monta enquanto você responde",
+      "publishedAt": "2026-11-25T11:20:58.779Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.190",
+      "notes": "Início sem o Resumo diário; boas-vindas não definem salário, você lança a entrada",
+      "publishedAt": "2026-11-25T11:14:52.816Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.189",
+      "notes": "Conta nova não mostra economia de dias antes de começar; exemplos de proibição mais gerais",
+      "publishedAt": "2026-11-25T11:12:47.994Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.188",
+      "notes": "Assinaturas da Início mostram o ícone que você enviou no lançamento",
+      "publishedAt": "2026-11-25T11:01:46.576Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.187",
+      "notes": "Rivo IA: anexe PDF, planilha ou imagem e pergunte por áudio",
+      "publishedAt": "2026-11-25T00:42:35.056Z",
+      "kind": "apk"
+    },
+    {
+      "version": "1.1.186",
+      "notes": "Editar lançamento: botões do topo mais limpos",
+      "publishedAt": "2026-11-25T00:36:55.146Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.185",
+      "notes": "Lançamentos: envie uma imagem como ícone e ela vale para todos com o mesmo nome",
+      "publishedAt": "2026-11-25T00:35:19.899Z",
+      "kind": "web"
+    },
+    {
+      "version": "1.1.184",
+      "notes": "Atalho: com o Rivo aberto, volume − duas vezes abre a Rivo IA (dá para desligar em Configurações)",
+      "publishedAt": "2026-11-25T00:30:38.215Z",
+      "kind": "apk"
+    }
+  ]
+}
